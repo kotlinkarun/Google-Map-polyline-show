@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Map Polyline</string>
+    <string name="title_activity_maps">Search city Google Map</string>
+</resources>
